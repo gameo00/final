@@ -3,4 +3,4 @@
 ## クラス：SD2G
 ## 氏名：中嶋　彪人
 ## システム名：スタバのドリンク情報のシステム
-## URL:
+## URL:https://aso2201372.pinoko.jp/final/src/list.php

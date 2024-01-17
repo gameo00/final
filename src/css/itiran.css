@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+  background-color: #b6d4e4;
+  font-family: 'Verdana','Hiragino Sans','Meiryo',sans-serif;
+  text-align: left;
+
+}
+  h1{
+    background-color: #ef8b99;
+    font-size: 18px;
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    padding: 6px 0;
+    margin: 20px;
+    width: 300px;
+    text-align:center;
+  }
+  
+
+  p,ul {
+    border: 3px solid #ffffff;
+    border-radius: 20px;
+    width: 300px;
+    margin: 0 ;
+    background-color: #c7784d;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  img {
+    border-radius: 50%;
+  }
